@@ -1,0 +1,49 @@
+{
+  "result": [
+  {
+    "no": "1",
+    "name": "Lee Hee Seung",
+    "birth_date": "15 Oktober 2001",
+    "Position": "Vokal, Center",
+    "International": "Korea",
+    "Team": "Enhypen",
+    "Poster": "https://cdnwpseller.gramedia.net/wp-content/uploads/2022/07/25085735/1_XYfiJgp.width-800-225x300.jpg"
+  },
+  {
+    "no": "2",
+    "name": "Jay Park",
+    "birth_date": "20 April 2002",
+    "Position": "Rap, Lead Dancer",
+    "International": "Korea-Amerika",
+    "Team": "Enhypen",
+    "Poster": "https://cdnwpseller.gramedia.net/wp-content/uploads/2022/07/25085813/2_ZpAeSSz.width-800-200x300.jpg"
+  },
+  {
+    "no": "3",
+    "name": "Jake Shim",
+    "birth_date": "15 November 2002",
+    "Position": "Lead Vocal, Sub Dancer",
+    "International": "Korea-Australia",
+    "Team": "Enhypen",
+    "Poster": "https://cdnwpseller.gramedia.net/wp-content/uploads/2022/07/25085920/3_8Fnv3pp.width-800-168x300.jpg"
+  },
+  {
+    "no": "4",
+    "name": "Nishimura Riki",
+    "birth_date": "9 Desember 2005",
+    "Position": "Main Dancer, Sub Vocal, Rapper",
+    "International": "Jepang",
+    "Team": "Enhypen",
+    "Poster": "https://cdnwpseller.gramedia.net/wp-content/uploads/2022/07/25090558/6_GcT9kZy.width-800-200x300.jpg"
+  },
+  {
+    "no": "5",
+    "name": "Yang Jung Won",
+    "birth_date": "9 Februari 2004",
+    "Position": "Leader, Lead Vocalist, Lead Dancer",
+    "International": "Korea",
+    "Team": "Enhypen",
+    "Poster": "https://cdnwpseller.gramedia.net/wp-content/uploads/2022/07/25090102/5_zcxZb1N.width-800-213x300.jpg"
+  }
+ ]
+}
